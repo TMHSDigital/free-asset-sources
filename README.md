@@ -46,5 +46,3 @@ Popular ___FREE___ , open-source animation libraries and resources you can use:
 - **Integrate Libraries**: For web development, you can include these libraries via CDN or by installing them via npm/yarn.
 - **Edit and Customize**: Many of these libraries allow for extensive customization. Check their documentation for more details on how to implement and tweak the animations.
 - **Combine Resources**: Use video loops or animated SVGs from resources like Pixabay or Pexels in combination with JavaScript libraries for more complex effects.
-
-Would you like specific examples of how to implement any of these libraries or resources in a project?
