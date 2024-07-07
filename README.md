@@ -1,4 +1,4 @@
-Popular ___FREE___ , open-source animation libraries and resources you can use:
+Popular ___FREE___ , ___open-source___ **___animation libraries___** and resources you can use:
 
 ### Animation Libraries
 
